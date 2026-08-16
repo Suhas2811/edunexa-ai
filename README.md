@@ -1,6 +1,8 @@
-# EduNexa AI
+# VidyānVaya AI
 
 ### A Subject-Agnostic Academic Learning Assistant
+
+**Official Project:** Subject Guide & Question Bank Assistant AI Agent
 
 > **An Agentic AI-powered academic learning assistant that adapts to different subjects and uses students' uploaded academic materials to provide grounded explanations, question solving, personalized practice, and learning recommendations.**
 
@@ -529,7 +531,7 @@ Development will begin with the foundation and document-processing phase.
 
 ## 📄 Project Information
 
-**Project:** EduNexa AI
+**Project:** VidyānVaya AI
 **Official Project:** Subject Guide & Question Bank Assistant AI Agent
 **Development Approach:** Track A foundation → Selected advanced capabilities
 **Duration:** 8 Weeks
