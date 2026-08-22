@@ -466,7 +466,7 @@ The system will ideally be demonstrated using multiple different academic subjec
 
 # 📌 Expected Final Outcome
 
-The final goal is to develop **EduNexa AI**, a subject-agnostic Agentic AI academic learning assistant that can transform a student's own academic materials into an interactive learning environment.
+The final goal is to develop ** VidyānVaya AI **, a subject-agnostic Agentic AI academic learning assistant that can transform a student's own academic materials into an interactive learning environment.
 
 The completed system is expected to support:
 
